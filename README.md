@@ -1,2 +1,2 @@
-# curly-umbrella
+# Projects
 Projects
